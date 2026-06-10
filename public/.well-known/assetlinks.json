@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vaulthub.app",
+      "sha256_cert_fingerprints": [
+        "68:8C:7D:2C:43:D1:63:CA:6F:EE:60:0D:E7:2C:56:96:C0:0C:D5:D3:8B:E8:22:72:10:70:1F:BC:16:47:9A:43"
+      ]
+    }
+  }
+]
